@@ -12,6 +12,10 @@
 		<!-- Display name -->
 		<ApplicationTitle>MyProjectName.Client</ApplicationTitle>
 
+
+
+		
+
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.myprojectname.client</ApplicationId>
 		<ApplicationIdGuid>02089ddf-b7c0-4555-94f9-7169d94d7f23</ApplicationIdGuid>
